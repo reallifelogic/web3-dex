@@ -37,6 +37,11 @@ Run `npx nx build nordek-dex` to build the application. The build artifacts are 
 * UI Theme Customization: Provide users with the ability to personalise the UI theme (light/dark mode). ✅
 * Responsive Design: Ensure the DEX application functions flawlessly across various devices (desktops, mobiles, tablets). ✅
 
+Additional :
+
+* Make smaller component into design-system
+* Clean project architecture & naming.
+
 ## Future Improvements
 
 - NFT Marketplace.
