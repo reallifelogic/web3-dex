@@ -48,4 +48,10 @@ Run `npx nx build nordek-dex` to build the application. The build artifacts are 
 <img width="1505" alt="Screenshot 2024-03-13 at 05 41 37" src="https://github.com/reallifelogic/web3-dex/assets/96410307/b4d50b5d-c8b1-4955-b135-74dd2b132595">
 <img width="1494" alt="Screenshot 2024-03-13 at 05 41 47" src="https://github.com/reallifelogic/web3-dex/assets/96410307/97c6577a-0d90-4aab-8573-503db3476c8d">
 <img width="1503" alt="Screenshot 2024-03-13 at 05 42 19" src="https://github.com/reallifelogic/web3-dex/assets/96410307/06ce953f-bde4-46c3-851c-9415a845b3ca">
+<img width="1506" alt="Screenshot 2024-03-13 at 05 46 00" src="https://github.com/reallifelogic/web3-dex/assets/96410307/60765cae-1b27-44c0-b3f3-bfdbe59f441d">
+
+Responsive:
+
 <img width="470" alt="Screenshot 2024-03-13 at 05 42 35" src="https://github.com/reallifelogic/web3-dex/assets/96410307/c61bc55e-341c-4003-8ea6-9a8b5d487b63">
+
+
