@@ -13,13 +13,23 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {},
     "jsx": "react-jsx",
     "allowJs": false,
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "types": ["vite/client", "vitest"]
+    "types": ["vite/client", "vitest"],
+    "paths": {
+      "@components/*": ["./src/components/*"],
+      "@components": ["./src/components"],
+      "@design-system/*": ["./src/design-system/*"],
+      "@design-system": ["./src/design-system"],
+      "@constants/*": ["./src/constants/*"],
+      "@redux/*": ["./src/redux/*"],
+      "@actions/*": ["./src/redux/actions/*"],
+      "@reducers/*": ["./src/redux/reducers/*"],
+      "@selectors/*": ["./src/redux/selectors/*"]
+    }
   },
   "files": [],
   "include": [],

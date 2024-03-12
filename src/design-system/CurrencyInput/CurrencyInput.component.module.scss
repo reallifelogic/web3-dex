@@ -1,0 +1,80 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100px;
+  background-color: #22222b;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  justify-content: center;
+}
+
+.info {
+  display: flex;
+  justify-content: flex-start;
+  padding: 2px 16px;
+  color: #878787;
+  font-size: 12px;
+}
+
+.value {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.valueInput {
+  background: transparent;
+  height: 40px;
+  border: 0;
+  outline: 0;
+  color: #d2d2d2;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 0 16px;
+
+  &::placeholder {
+    font-size: 14px;
+  }
+}
+
+.currencySelect {
+  display: flex;
+  width: auto;
+  height: 42px;
+  background: #1c1c24;
+  color: #d2d2d2;
+  border-radius: 50px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 12px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: 16px;
+  cursor: pointer;
+
+  & img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    border-radius: 100px;
+    object-fit: cover;
+  }
+
+  & span {
+    margin-right: 8px;
+  }
+}
+
+.price {
+  padding: 0px 16px;
+  color: #645f5f;
+  font-size: 12px;
+}
+
+@media only screen and (max-width: 425px) {
+  .valueInput {
+    width: 150px;
+  }
+}

@@ -1,0 +1,57 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  font-family: 'Poppins', sans-serif !important;
+  -webkit-font-family: 'Poppins' !important;
+  -moz-font-family: 'Poppins' !important;
+  margin: 0;
+}
+
+:global {
+  .full-w {
+    width: 100%;
+  }
+
+  .custom-btn {
+    background: linear-gradient(to bottom, #3498db, #6610f2);
+    border: 0;
+    color: #d2d2d2;
+    font-size: 12px;
+    border-radius: 100px;
+    height: 45px;
+
+    &:hover {
+      background: linear-gradient(to bottom, #3498db, #6610f2) !important;
+      border: 0 !important;
+    }
+
+    &:focus {
+      box-shadow: none !important;
+    }
+  }
+
+  .disabled-btn {
+    background: linear-gradient(to bottom, #555, #333);
+    border: 0;
+    color: #d2d2d2;
+    font-size: 12px;
+    border-radius: 100px;
+    height: 45px;
+    cursor: not-allowed;
+
+    &:hover {
+      border: 0 !important;
+    }
+
+    &:focus {
+      box-shadow: none !important;
+    }
+  }
+}

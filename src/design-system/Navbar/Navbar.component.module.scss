@@ -1,0 +1,35 @@
+.loginBtn {
+  background: linear-gradient(to bottom, #3498db, #6610f2);
+  border: 0;
+  color: #d2d2d2;
+  font-size: 12px;
+  border-radius: 100px;
+  height: 45px;
+  min-width: 80px;
+
+  &:hover {
+    border: 0 !important;
+    background-color: linear-gradient(to bottom, #3498db, #6610f2) !important;
+  }
+
+  &:focus {
+    box-shadow: none !important;
+  }
+
+  & svg {
+    margin-right: 4px;
+  }
+}
+
+.balanceLight {
+  font-size: 14px;
+  margin-right: 16px;
+  color: #22222b;
+  font-weight: bold;
+}
+
+.balance {
+  font-size: 14px;
+  margin-right: 16px;
+  color: #d2d2d2;
+}

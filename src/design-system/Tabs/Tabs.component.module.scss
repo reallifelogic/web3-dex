@@ -1,0 +1,47 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  cursor: pointer;
+
+  & span {
+    display: block;
+    height: 35px;
+    font-size: 14px;
+    color: #717380;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+.wrapperLight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  cursor: pointer;
+
+  & span {
+    display: block;
+    height: 35px;
+    font-size: 14px;
+    color: #4a4a4e;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+.active {
+  color: #d2d2d2 !important;
+  border-bottom: 3px solid #d2d2d2;
+  border-color: #555fe5;
+}
+
+.activeLight {
+  color: #22222b !important;
+  border-bottom: 3px solid #d2d2d2;
+  border-color: #555fe5;
+}
