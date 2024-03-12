@@ -6,6 +6,7 @@ import { ThemeProvider } from 'evergreen-ui';
 import { store } from './redux/store';
 import { theme } from './styles/theme';
 import './styles.scss';
+import './global.module.scss';
 
 import AppNavigator from './routes/AppNavigator';
 
