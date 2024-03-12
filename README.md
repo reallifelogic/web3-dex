@@ -7,6 +7,8 @@
 
 ## Start the application
 
+The project is build on **ethereum sepolia** testnet.
+
 You can directly access the app without installing from here:
 
 **LIVE PREVIEW: https://web3-dex-nine.vercel.app/**
@@ -57,6 +59,12 @@ Additional :
 
 Responsive:
 
-<img width="470" alt="Screenshot 2024-03-13 at 05 42 35" src="https://github.com/reallifelogic/web3-dex/assets/96410307/c61bc55e-341c-4003-8ea6-9a8b5d487b63">
+![WhatsApp Image 2024-03-13 at 06 02 08](https://github.com/reallifelogic/web3-dex/assets/96410307/471d51a7-f874-4980-91d0-b77711d242ca)
+![WhatsApp Image 2024-03-13 at 06 02 08 (1)](https://github.com/reallifelogic/web3-dex/assets/96410307/7682d7e7-10f3-485e-a6fc-514f08fc42fc)
+![WhatsApp Image 2024-03-13 at 06 02 08 (2)](https://github.com/reallifelogic/web3-dex/assets/96410307/824fefe8-fbe5-4292-8439-dbb6b33388ed)
+![WhatsApp Image 2024-03-13 at 06 02 08 (3)](https://github.com/reallifelogic/web3-dex/assets/96410307/91d4bbc3-f5d2-4cfe-99c1-30fcdc3bd74c)
+![WhatsApp Image 2024-03-13 at 06 02 08 (4)](https://github.com/reallifelogic/web3-dex/assets/96410307/cdc135b4-f7e6-4e39-9440-73281fd5077e)
+![WhatsApp Image 2024-03-13 at 06 02 08 (5)](https://github.com/reallifelogic/web3-dex/assets/96410307/7674c924-1ab7-4b09-9ee2-58f9ad308f63)
+
 
 
