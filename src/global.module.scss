@@ -5,11 +5,11 @@
 
   .custom-btn {
     background: linear-gradient(to bottom, #3498db, #6610f2);
-    border: 0;
-    color: #d2d2d2;
-    font-size: 12px;
-    border-radius: 100px;
-    height: 45px;
+    border: 0 !important;
+    color: #d2d2d2 !important;
+    font-size: 12px !important;
+    border-radius: 100px !important;
+    height: 45px !important;
 
     &:hover {
       background: linear-gradient(to bottom, #3498db, #6610f2) !important;
@@ -23,11 +23,11 @@
 
   .disabled-btn {
     background: linear-gradient(to bottom, #555, #333);
-    border: 0;
-    color: #d2d2d2;
-    font-size: 12px;
-    border-radius: 100px;
-    height: 45px;
+    border: 0 !important;
+    color: #d2d2d2 !important;
+    font-size: 12px !important;
+    border-radius: 100px !important;
+    height: 45px !important;
     cursor: not-allowed;
 
     &:hover {
